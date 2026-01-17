@@ -141,13 +141,6 @@ npm run dev
 * `DELETE /api/tickets/:id`
 * `GET /api/chat/:ticketId`
 
----
-
-## 📸 Screenshots
-
-> Add screenshots here (Kanban board, ticket chat, mentions UI)
-
----
 
 ## 🧠 Learning Outcomes
 
