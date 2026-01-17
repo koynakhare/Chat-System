@@ -116,6 +116,8 @@ JWT_SECRET=your_secret_key
 npm run dev
 ```
 
+---
+
 **Frontend**
 
 ```bash
