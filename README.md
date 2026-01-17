@@ -168,7 +168,3 @@ npm start
 Full‑Stack Developer (React + Node.js)
 
 ---
-
-## ⭐ Support
-
-If you like this project, don’t forget to **star ⭐ the repo**
