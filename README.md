@@ -107,6 +107,9 @@ Create a `.env` file in **server/**
 PORT=5000
 MONGO_URI=your_mongodb_url
 JWT_SECRET=your_secret_key
+```
+
+---
 
 ### 4️⃣ Run Application
 
@@ -116,12 +119,10 @@ JWT_SECRET=your_secret_key
 npm run dev
 ```
 
----
-
 **Frontend**
 
 ```bash
-npm run dev
+npm start
 ```
 
 ---
@@ -142,7 +143,6 @@ npm run dev
 * `PUT /api/tickets/:id`
 * `DELETE /api/tickets/:id`
 * `GET /api/chat/:ticketId`
-
 
 ## 🧠 Learning Outcomes
 
@@ -166,3 +166,9 @@ npm run dev
 
 **Koyna Khare**
 Full‑Stack Developer (React + Node.js)
+
+---
+
+## ⭐ Support
+
+If you like this project, don’t forget to **star ⭐ the repo**
